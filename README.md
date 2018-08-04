@@ -1,3 +1,2 @@
-#CRYPERS 
-        -the shop
+#theShop
 The winner thilak's shop site
